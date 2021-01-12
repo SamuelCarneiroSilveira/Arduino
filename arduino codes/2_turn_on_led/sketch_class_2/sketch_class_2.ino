@@ -1,8 +1,7 @@
 /* project: light up led
    author: samuel carneiro silveira
-   schematic at https://github.com/SamuelCarneiroSilveira/Arduino
-   video of the project at  
- 
+   schematic at https://github.com/SamuelCarneiroSilveira/Arduino/blob/main/arduino%20codes/2_turn_on_led/schematic%20class_2.jpg
+   picture at https://github.com/SamuelCarneiroSilveira/Arduino/blob/main/arduino%20codes/2_turn_on_led/picture%20class_2.jpg
    components: 
    1 x arduino
    1 x led  

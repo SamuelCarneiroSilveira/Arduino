@@ -1,7 +1,7 @@
 /* project: led control by pwm
    author: samuel carneiro silveira
-   schematic at https://github.com/SamuelCarneiroSilveira/Arduino
-   video of the project at  
+   schematic at https://github.com/SamuelCarneiroSilveira/Arduino/blob/main/arduino%20codes/5_pwm/pwm%20schematic.jpg
+   video of the project at https://www.youtube.com/watch?v=GfE5hP8NZ7U   
    components:                                      
    1 x arduino
    3 x led  

@@ -1,7 +1,7 @@
 /* project: Push button
    author: samuel carneiro silveira
-   schematic at https://github.com/SamuelCarneiroSilveira/Arduino
-   video of the project at 
+   schematic at https://github.com/SamuelCarneiroSilveira/Arduino/blob/main/arduino%20codes/6_button/schematic.jpg
+   video of the project at https://www.youtube.com/watch?v=sGu7ZIUBDFE
    components: 
    1 x arduino
    1 x led  

@@ -1,7 +1,7 @@
 /* project: traffic light
    author: samuel carneiro silveira
-   schematic at https://github.com/SamuelCarneiroSilveira/Arduino
-   video of the project at  
+   schematic at https://github.com/SamuelCarneiroSilveira/Arduino/blob/main/arduino%20codes/4_traffic_%20light/schematic%20traffic%20light.jpg
+   video of the project at https://www.youtube.com/watch?v=qfQ5_mHT398 
    components: 
    1 x arduino
    3 x led  

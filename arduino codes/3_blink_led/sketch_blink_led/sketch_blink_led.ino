@@ -1,7 +1,7 @@
 /* project: flashes led
    author: samuel carneiro silveira
-   schematic at https://github.com/SamuelCarneiroSilveira/Arduino
-   video of the project at  
+   schematic at https://github.com/SamuelCarneiroSilveira/Arduino/blob/main/arduino%20codes/3_blink_led/schematic%20class_3.jpg
+   video of the project at https://www.youtube.com/watch?v=CQyiCKR2C9c 
    
    components:
    1 x arduino
